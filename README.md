@@ -215,8 +215,7 @@ The purpose of ethical password auditing is to identify weaknesses so that they 
 ---
 
 
-**LinkedIn post:** 
-
+**LinkedIn post:** https://lnkd.in/p/eFW6BB-f
 ---
 
 ## Acknowledgments
@@ -245,4 +244,4 @@ Unauthorized access, password cracking, or security testing against systems with
 
 **Learn. Test. Secure. Repeat.**
 
-> 🔐 **Understand the weakness. Fix the weakness. Secure the system.**
+>  **Understand the weakness. Fix the weakness. Secure the system.**
